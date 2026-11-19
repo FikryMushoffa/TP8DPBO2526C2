@@ -96,5 +96,6 @@ Database `tp_mvc25` memiliki 3 tabel yang saling berelasi:
 
 ## Dokumentasi
 
-- **ERD Database**: [Diagram.png](Dokumentasi/Diagram.png)
-- **Screen Record Aplikasi**: [Record.mp4](Dokumentasi/Record.mp4)
+https://github.com/user-attachments/assets/81270044-9110-4035-9c99-0348def90f6d
+
+
